@@ -1,0 +1,61 @@
+body {
+    background-image: url(../images/spikes.png); 
+}
+
+.collapsible-body {
+    padding-bottom: 40px; 
+ }
+ 
+ .buttonMargin {
+     margin-right: 10px;
+ }
+ 
+ .buttonMargin:hover {
+     background-color: rgb(250, 159, 189);
+ }
+ 
+ #newScrape {
+     background-color: rgb(134, 198, 250);
+ }
+ 
+ #clearScrapedArticles {
+     background-color: rgb(134, 198, 250);
+ }
+ 
+ .nav-wrapper {
+     font-family: 'Questrial', sans-serif;
+     background-image: url(../images/universe-1566159_1920.jpg); 
+     margin-bottom: 30px;
+     margin-bottom: 10px;
+ }
+ 
+ #clearSavedArticles {
+     background-color: rgb(134, 198, 250);
+ }
+ 
+ .btn-small {
+     background-color: rgb(216, 168, 255);
+     
+ }
+ 
+ .brand-logo {
+     font-family: 'Questrial', sans-serif;
+     margin-left: 20px;
+ }
+ 
+ a {
+     font-family: 'Questrial', sans-serif;
+ }
+ 
+ .collapsible-header {
+     margin-top: 10px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ h5 {
+     margin: 30px;
+     padding: 15px;
+     font-family: 'Questrial', sans-serif;
+     background-color: white;
+     
+ }
